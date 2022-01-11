@@ -58,9 +58,9 @@ bytecode:
       user: [enter username]
       password: [enter password]
       role: 
-      database: TRAINING_DB_[YOUR_NAME]]
-      warehouse: TRAINING_WH_[YOUR_NAME]]
-      schema: dbt_[YOUR_NAME]]
+      database: TRAINING_DB_[YOUR_NAME]
+      warehouse: TRAINING_WH_[YOUR_NAME]
+      schema: dbt_[YOUR_NAME]
       threads: 4
     prod:
       type: snowflake
@@ -68,8 +68,8 @@ bytecode:
       user: [enter username]
       password: [enter password]
       role: 
-      database: TRAINING_DB_[YOUR_NAME]]
-      warehouse: TRAINING_WH_[YOUR_NAME]]
+      database: TRAINING_DB_[YOUR_NAME]
+      warehouse: TRAINING_WH_[YOUR_NAME]
       schema: dbt
       threads: 4
 ```
