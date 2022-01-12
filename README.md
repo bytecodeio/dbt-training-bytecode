@@ -42,7 +42,7 @@ Please remember that the `account` is not only the Snowflake account number, but
 8. `dbt run` should work now.
 
 After the initial installation, you will be able to activate the project with:
-1. `cd dbt-<your_org>`
+1. `cd dbt<your_org>`
 2. `source dbt-env/bin/activate`
 
 ### Example Profile Config 
