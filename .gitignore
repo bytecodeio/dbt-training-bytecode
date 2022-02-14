@@ -1,5 +1,10 @@
 
 target/compiled
 target/run
+target/catalog.json
+target/graph.gpickle
+target/index.html
+target/partial_parse.msgpack
+target/run_results.json
 dbt_packages/
 logs/
